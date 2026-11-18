@@ -45,4 +45,8 @@ A clean, minimalist, and elegant digital wedding invitation card built using sta
 \* \*\*Color Schemes:\*\* Modify the background and primary accent colors in `style.css` (currently configured with `#fdfaf6` and `#b38f46` gold).
 
 
+[click to view](https://minshida-latheef.github.io/wedding-card-website/)
+
+---
+
 
